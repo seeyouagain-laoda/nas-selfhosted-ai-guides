@@ -14,3 +14,5 @@
   https://github.com/seeyouagain-laoda/wechat-notify-guide
 - **minimax-h3-guide** — MiniMax H3 视频生成工作流，脱敏教程。
   https://github.com/seeyouagain-laoda/minimax-h3-guide
+- **astrbot-openclaw-whale-guide** — 基于 NAS 的 AstrBot 扮演 Deepseek 鲸鱼娘实战，接入 OpenClaw 执行任务（relay 桥接 + 软件版本号 + 踩坑全记录），脱敏教程。
+  https://github.com/seeyouagain-laoda/astrbot-openclaw-whale-guide
